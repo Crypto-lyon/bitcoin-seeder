@@ -1,7 +1,7 @@
-bitcoin-seeder
+insacoin-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+Insacoin-seeder is a crawler for the Insacoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
